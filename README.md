@@ -1,2 +1,2 @@
 # LOTERIA
- Trabajo Lotería
+ Trabajo
